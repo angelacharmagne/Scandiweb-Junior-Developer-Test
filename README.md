@@ -10,6 +10,7 @@ Technologies used:
 - JS
 
 Frontend part was deployed on Firebase
+
 Backend part was deployed on Heroku
 
 Test link: http://scandiweb-test.web.app/
